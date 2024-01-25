@@ -1,0 +1,105 @@
+==================Training Model==================
+------------------Epoch number 0------------------
+	Model training loss = 0.6963334679603577
+	Evaluating model...
+	Evaluation accuracy 81.6884661117717 , loss = 0.2782331109046936
+------------------Epoch number 1------------------
+	Model training loss = 0.3486490249633789
+	Evaluating model...
+	Evaluation accuracy 84.0665873959572 , loss = 0.25971749424934387
+------------------Epoch number 2------------------
+	Model training loss = 0.11765991151332855
+	Evaluating model...
+	Evaluation accuracy 84.89892984542212 , loss = 0.6897740364074707
+------------------Epoch number 3------------------
+	Model training loss = 0.11546622216701508
+	Evaluating model...
+	Evaluation accuracy 84.78002378121285 , loss = 0.6359700560569763
+------------------Epoch number 4------------------
+	Model training loss = 0.03811189532279968
+	Evaluating model...
+	Evaluation accuracy 84.0665873959572 , loss = 0.832572340965271
+------------------Epoch number 5------------------
+	Model training loss = 0.13476891815662384
+	Evaluating model...
+	Evaluation accuracy 84.66111771700356 , loss = 1.3196284770965576
+------------------Epoch number 6------------------
+	Model training loss = 0.025981595739722252
+	Evaluating model...
+	Evaluation accuracy 85.4934601664685 , loss = 0.7729353308677673
+------------------Epoch number 7------------------
+	Model training loss = 0.018868902698159218
+	Evaluating model...
+	Evaluation accuracy 85.96908442330559 , loss = 0.4569900929927826
+------------------Epoch number 8------------------
+	Model training loss = 0.007126231212168932
+	Evaluating model...
+	Evaluation accuracy 86.20689655172414 , loss = 1.3657265901565552
+------------------Epoch number 9------------------
+	Model training loss = 0.01671207882463932
+	Evaluating model...
+	Evaluation accuracy 85.85017835909632 , loss = 0.5217687487602234
+------------------Epoch number 10------------------
+	Model training loss = 0.015399303287267685
+	Evaluating model...
+	Evaluation accuracy 85.13674197384067 , loss = 0.6576922535896301
+------------------Epoch number 11------------------
+	Model training loss = 0.018080592155456543
+	Evaluating model...
+	Evaluation accuracy 85.85017835909632 , loss = 0.7324711084365845
+------------------Epoch number 12------------------
+	Model training loss = 0.013685601763427258
+	Evaluating model...
+	Evaluation accuracy 86.68252080856124 , loss = 0.5445980429649353
+------------------Epoch number 13------------------
+	Model training loss = 0.03768452629446983
+	Evaluating model...
+	Evaluation accuracy 86.56361474435197 , loss = 1.567891001701355
+------------------Epoch number 14------------------
+	Model training loss = 0.005091811530292034
+	Evaluating model...
+	Evaluation accuracy 85.25564803804994 , loss = 0.7903201580047607
+------------------Epoch number 15------------------
+	Model training loss = 0.022208256646990776
+	Evaluating model...
+	Evaluation accuracy 86.08799048751486 , loss = 1.8033466339111328
+------------------Epoch number 16------------------
+	Model training loss = 0.0027868454344570637
+	Evaluating model...
+	Evaluation accuracy 85.96908442330559 , loss = 0.9045022130012512
+------------------Epoch number 17------------------
+	Model training loss = 0.008160640485584736
+	Evaluating model...
+	Evaluation accuracy 85.96908442330559 , loss = 0.09326429665088654
+------------------Epoch number 18------------------
+	Model training loss = 0.00889307539910078
+	Evaluating model...
+	Evaluation accuracy 85.85017835909632 , loss = 0.978316605091095
+------------------Epoch number 19------------------
+	Model training loss = 0.002439079573377967
+	Evaluating model...
+	Evaluation accuracy 85.85017835909632 , loss = 0.44922971725463867
+------------------Epoch number 20------------------
+	Model training loss = 0.0023266503121703863
+	Evaluating model...
+	Evaluation accuracy 86.20689655172414 , loss = 1.9512903690338135
+------------------Epoch number 21------------------
+	Model training loss = 0.0032455651089549065
+	Evaluating model...
+	Evaluation accuracy 86.20689655172414 , loss = 0.8926029205322266
+------------------Epoch number 22------------------
+	Model training loss = 0.001463067950680852
+	Evaluating model...
+	Evaluation accuracy 85.37455410225921 , loss = 0.970362663269043
+------------------Epoch number 23------------------
+	Model training loss = 0.005842401646077633
+	Evaluating model...
+	Evaluation accuracy 85.73127229488703 , loss = 0.02352319285273552
+------------------Epoch number 24------------------
+	Model training loss = 0.0014473034534603357
+	Evaluating model...
+	Evaluation accuracy 85.73127229488703 , loss = 1.3472319841384888
+==================Finished Training==================
+	Best model is epoch number 12
+	Best model evaluation accuracy: 86.68252080856124
+	Best model evaluation loss: 0.5445980429649353
